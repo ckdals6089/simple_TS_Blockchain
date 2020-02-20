@@ -1,0 +1,27 @@
+{
+  "name": "simpletsblockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckdals6089/simple_TS_Blockchain.git"
+  },
+  "author": "Changmin Shin <ckdals6089@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.1.0"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "yarn": "^1.22.0"
+  },
+  "bugs": {
+    "url": "https://github.com/ckdals6089/simple_TS_Blockchain/issues"
+  },
+  "homepage": "https://github.com/ckdals6089/simple_TS_Blockchain#readme",
+  "description": ""
+}
