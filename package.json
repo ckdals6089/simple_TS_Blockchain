@@ -16,7 +16,7 @@
     "tsc-watch": "^4.1.0"
   },
   "dependencies": {
-    "crypto-js": "^4.0.0",
+    "crypto-js": "^4.2.0",
     "yarn": "^1.22.0"
   },
   "bugs": {
